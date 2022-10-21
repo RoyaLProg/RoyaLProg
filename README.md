@@ -2,7 +2,7 @@ Hey contact me if you think i can do something for you
 
 <img src="https://github-readme-stats.vercel.app/api?username=RoyaLProg&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyaLProg&layout=compact&theme=gotham" length="100" width="375">
-
+![42](https://a11ybadges.com/badge?logo=42)![Alacritty](https://a11ybadges.com/badge?logo=alacritty)![Angular](https://a11ybadges.com/badge?logo=angular)![Arch Linux](https://a11ybadges.com/badge?logo=archlinux)![C](https://a11ybadges.com/badge?logo=c)![C++](https://a11ybadges.com/badge?logo=cplusplus)![CurseForge](https://a11ybadges.com/badge?logo=curseforge)![Java](https://a11ybadges.com/badge?logo=java)![JavaScript](https://a11ybadges.com/badge?logo=javascript)![osu!](https://a11ybadges.com/badge?logo=osu)
 🚩**Center of interest**<br>
  ->  Programmation
  ->  Video Games
