@@ -3,7 +3,7 @@ Hey contact me if you think i can do something for you
 <img src="https://github-readme-stats.vercel.app/api?username=RoyaLProg&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyaLProg&layout=compact&theme=gotham" length="100" width="375">
 
-🚩**Centers of interest**<br>
+🚩**Center of interest**<br>
  ->  Programmation
  ->  Video Games
  ->  Japanese Culture 
