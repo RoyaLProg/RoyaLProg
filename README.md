@@ -21,8 +21,4 @@ Hey contact me if you think i can do something for you
  Programmation
  ->  Video Games
  ->  Japanese Culture 
- ->  Cybersecurity <br>
-
-[![ccambium's 42 stats](https://badge42.vercel.app/api/v2/cl9j20swl01330gl2n2fhdahq/stats?cursusId=21&coalitionId=48)](https://github.com/RoyaLProg)
-
-[![ccambium's 42 stats](https://badge42.vercel.app/api/v2/cl9j20swl01330gl2n2fhdahq/stats?cursusId=9&coalitionId=piscine)](https://github.com/JRoyaLProg)
+ ->  Cybersecurity
