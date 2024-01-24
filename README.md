@@ -10,7 +10,7 @@
 ![Java](https://a11ybadges.com/badge?logo=java)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
 ![Minecraft](https://a11ybadges.com/badge?logo=minecraft)
-![osu!](https://a11ybadges.com/badge?logo=osu)<br>
+![osu!](https://a11ybadges.com/badge?logo=osu)
 ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode)
 
 Hey contact me if you think i can do something for you
