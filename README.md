@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=RoyaLProg&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" height="150"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyaLProg&layout=compact&theme=gotham" length="100" height="150"></img>
-<a href="https://app.daily.dev/royalprog"><img src="https://api.daily.dev/devcards/v2/wVPL3DBmRuPwWDXsWcF7g.png?type=wide&r=13a" width="400" alt="Camille CAMBIUM's Dev Card"/></a>
+<a href="https://app.daily.dev/royalprog"><img src="https://api.daily.dev/devcards/v2/wVPL3DBmRuPwWDXsWcF7g.png?type=wide&r=wd0" width="400" alt="Camille CAMBIUM's Dev Card"/></a>
 
 🚩**Center of interest**
 
